@@ -7,11 +7,11 @@
   
 <div>
   <a href = "github.com/CyberGutz">
-  <img height = "180em" align = "center" src = "https://github-readme-stats.vercel.app/api?username=CyberGutz&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=CyberGutz&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br"/>
 </div>
-
+<p>
   
-<div align "center">
+<div>
   <a href = "github.com/CyberGutz">
   <img hight = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGutz&languagecount=8&theme=tokyonight&locale=pt-br"/>
 </div>
