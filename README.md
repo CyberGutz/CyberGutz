@@ -6,6 +6,6 @@
 
 <div>
   <a href = "github.com/Cybergutz">
-  <img src = "https://github-readme-stats.vercel.app/api?username=CyberGutz&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGutz&languagecount=8&theme=tokyonight"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=CyberGutz&count_private=true&show_icons=true&theme=tokyonight&locale=br"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGutz&languagecount=8&theme=tokyonight&locale=br"/>
 </div>
