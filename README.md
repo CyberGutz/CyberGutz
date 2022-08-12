@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Gustavo Magalhães
-- 👀 I’m interested in game development and improving my coding skills.
-- 🌱 I’m currently learning c, c++, python and unity.
-- 💞️ I’m looking to collaborate on indie game projects. Although I'm a newbie, i'm open to learning anything.
-- 📫 How to reach me my email: gutemagae@gmail.com.
+## Olá, sou o Gustavo!
+- 👀 Atualmente me Interesso por Front End e Game Development.
+- 🌱 Estou Aprendendo e aprimorando meus conhecimentos em HTML, CSS e Javascript.
+- 📫 Email para contato: gutemagae@gmail.com.
 
 <div>
   <a href = "github.com/Cybergutz">
