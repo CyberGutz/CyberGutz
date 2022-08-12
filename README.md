@@ -6,6 +6,5 @@
 
 <div>
   <a href = "github.com/Cybergutz">
-  <img src = "https://github-readme-stats.vercel.app/api?username=CyberGutz"/>
-  <img src = "https://github.com/CyberGutz/github-readme-stats"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=CyberGutz &count_private = true &show_icons = true &theme = tokyonight"/>
 </div>
