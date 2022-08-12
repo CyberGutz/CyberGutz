@@ -1,4 +1,5 @@
 # Olá, sou o Gustavo!
+<img align = "right" src = "https://discord.com/channels/1007487736330068048/1007487736795631617/1007487828009164861"/>
 - 👀 Atualmente me Interesso por Front End e Game Development.
 - 🌱 Estou Aprendendo e aprimorando meus conhecimentos em HTML, CSS e Javascript.
 - 📫 Email para contato: gutemagae@gmail.com.
