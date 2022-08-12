@@ -1,4 +1,4 @@
-## Olá, sou o Gustavo!
+# Olá, sou o Gustavo!
 - 👀 Atualmente me Interesso por Front End e Game Development.
 - 🌱 Estou Aprendendo e aprimorando meus conhecimentos em HTML, CSS e Javascript.
 - 📫 Email para contato: gutemagae@gmail.com.
