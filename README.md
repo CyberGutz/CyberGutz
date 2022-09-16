@@ -13,5 +13,5 @@
   
 <div>
   <a href = "https://github.com/CyberGutz">
-  <img hight = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGutz&languagecount=8&theme=tokyonight&locale=pt-br?count_private=true"/>
+  <img hight = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGutz&languagecount=8&theme=tokyonight&locale=pt-br&count_private=true"/>
 </div></br>
