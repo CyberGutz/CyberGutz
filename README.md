@@ -8,7 +8,7 @@
   
 <div>
   <a href = "https://github.com/CyberGutz">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=CyberGutz&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=CyberGutz&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br"/>
 </div></br>
   
 <div>
