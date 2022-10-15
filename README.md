@@ -2,7 +2,7 @@
 <img align = "right" height = 20% width = 20% src = "https://cdn.discordapp.com/attachments/1007487736795631617/1007487827698782228/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/>
 
 - 👀 Atualmente me Interesso por Front End e Game Development.
-- 🌱 Estou Aprendendo e aprimorando meus conhecimentos em HTML, CSS e Javascript.
+- 🌱 Estou Aprendendo e aprimorando meus conhecimentos em Java e Python.
 - 📫 Email para contato: gutemagae@gmail.com.
 </br>
   
