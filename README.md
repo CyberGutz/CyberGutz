@@ -1,5 +1,5 @@
 # Hi there and Welcome! I'm Gustavo!
-<img align = "right" height = 20% width = 20% src = ""/>
+<img align = "right" height = 20% width = 20% src = "https://i.pinimg.com/originals/f0/4b/a9/f04ba908d1744c429505ac5239c35e63.gif"/>
 
 ## About me
 - Computer Science graduate student.
