@@ -5,4 +5,4 @@
 - 🌱 Estou Aprendendo e aprimorando meus conhecimentos em Go e Javascript.
 - 📫 Email para contato: gustavotm.profissinal@gmail.com.
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=CyberGutz)](https://github.com/anuraghazra/github-readme-stats)
