@@ -4,11 +4,5 @@
 - 👀 Atualmente me Interesso por IPFS e aplicações descentralizadas local-first.
 - 🌱 Estou Aprendendo e aprimorando meus conhecimentos em Go e Javascript.
 - 📫 Email para contato: gustavotm.profissinal@gmail.com.
-</br>
   
-<div>
-  <a href="https://github-readme-stats.vercel.app/api?username=CyberGutz"></a>
-<div>
-  <a href = "https://github.com/CyberGutz">
-  <img hight = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGutz&languagecount=8&theme=tokyonight&locale=pt-br&count_private=true"/>
-</div></br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
